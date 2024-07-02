@@ -1,0 +1,13 @@
+.parent {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.span {
+ color: black;
+ font-weight: 800;
+ height: 40px;
+ width: 40px;
+ cursor: pointer;
+}
